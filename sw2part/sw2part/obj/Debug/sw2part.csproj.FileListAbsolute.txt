@@ -1,0 +1,11 @@
+D:\projects\C#\University\2partLabWork\SW2part\sw2part\bin\Debug\SW2part.exe.config
+D:\projects\C#\University\2partLabWork\SW2part\sw2part\bin\Debug\SW2part.exe
+D:\projects\C#\University\2partLabWork\SW2part\sw2part\bin\Debug\SW2part.pdb
+D:\projects\C#\University\2partLabWork\SW2part\sw2part\obj\Debug\sw2part.csproj.AssemblyReference.cache
+D:\projects\C#\University\2partLabWork\SW2part\sw2part\obj\Debug\sw2part.csproj.SuggestedBindingRedirects.cache
+D:\projects\C#\University\2partLabWork\SW2part\sw2part\obj\Debug\SW2part.Properties.Resources.resources
+D:\projects\C#\University\2partLabWork\SW2part\sw2part\obj\Debug\sw2part.csproj.GenerateResource.cache
+D:\projects\C#\University\2partLabWork\SW2part\sw2part\obj\Debug\sw2part.csproj.CoreCompileInputs.cache
+D:\projects\C#\University\2partLabWork\SW2part\sw2part\obj\Debug\SW2part.exe
+D:\projects\C#\University\2partLabWork\SW2part\sw2part\obj\Debug\SW2part.pdb
+D:\projects\C#\University\2partLabWork\SW2part\sw2part\obj\Debug\sw2part.Form1.resources
